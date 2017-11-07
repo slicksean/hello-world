@@ -9,3 +9,6 @@ How do you produce a book-length project with the WYSIWYG presentation of Word, 
 >> [I don't think this is indenting for a block-quote because it's underlining]
 I'm hoping maybe I'll find some folks on here who might want to collaborate on making that: a "digital-humanities" tool that might actually be useful (sorry not sorry for the snark).
 In the meantime, I can play around with documenting the whys of my dissertation, which I read somewhere is part of the open-source ethos.
+>> Here's how you make a block quote (I think).
+Everything between the >>
+Am I right?
